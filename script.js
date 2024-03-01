@@ -10,8 +10,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const words = await response.json();
 
         generateWordBtn.addEventListener('click', () => {
-            //const randomIndex = Math.floor(Math.random() * words.length);
-            const randomIndex = getRandomNumber(words.length);
+            const randomIndex = Math.floor(Math.random() * words.length);
+            // const randomIndex = getRandomNumber(words.length);
             const word = words[randomIndex];
             wordDisplay.textContent = word;
         });
