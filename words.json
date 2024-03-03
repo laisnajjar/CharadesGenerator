@@ -358,6 +358,7 @@
     "Marty McFly",
     "Frodo Baggins",
     "Yoda",
+    "Coffee",
     "King Kong",
     "Wolverine",
     "Simba",
@@ -373,8 +374,10 @@
     "Hulk",
     "Black Widow",
     "Loki",
+    "Exploit",
     "Deadpool",
     "Michael Corleone",
+    "Perspective",
     "T'Challa (Black Panther)",
     "John Wick",
     "Jason Bourne",
@@ -447,4 +450,4 @@
     "*The Word is 'Again' but the third person to say it gets it",
     "*Pick any word, you can only sit down when someone says 'You're Doing The Same Thing'",
     "Null"
-]
+]       
