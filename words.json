@@ -245,6 +245,7 @@
     "Basilisk",
     "Dystopia",
     "Enigma",
+    "Feedback",
     "Fiasco",
     "Gambit",
     "Inertia",
@@ -438,10 +439,12 @@
     "Act Out Ashley Lane",
     "Act Out Emmy",
     "Maize And Blue",
-    "*Act Out The Funniest Person In The Group",
     "Charades",
     "Charades Generator",
     "Cliff Keen",
     "*Pick Your Own Word",
+    "*Act Out The Funniest Person In The Group. They have to guess the person and the prompt.",
+    "*The Word is 'Again' but the third person to say it gets it",
+    "*Pick any word, you can only sit down when someone says 'You're Doing The Same Thing'",
     "Null"
 ]
